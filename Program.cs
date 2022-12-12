@@ -289,7 +289,7 @@ namespace NesneyeDayaliProgramlamaOdev1
             }
 
             //If the total value is less than 70, the password level is weak. If the total value between 70-90, it is medium and acceptable.
-            // In other cases, the total value is 90 or higher, it is strong and absolutely acceptable. 
+            // In other case, the total value is 90 or higher, it is strong and absolutely acceptable. 
 
         }
 
