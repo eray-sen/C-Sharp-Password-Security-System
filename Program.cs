@@ -1,19 +1,4 @@
-﻿/****************************************************************************
-**                    
-**                          SAKARYA ÜNİVERSİTESİ
-**              BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**                   BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**                     NESNEYE DAYALI PROGRAMLAMA DERSİ
-**                          2021-2022 BAHAR DÖNEMİ
-**
-**
-**                         ÖDEV NUMARASI: 1
-**                         ÖĞRENCİ ADI: ERAY ŞEN
-**                         ÖĞRENCİ NUMARASI: G211210019
-**                         DERS GRUBU: 2B
-******************************************************************************/
-
-using System;
+﻿using System;
 
 namespace NesneyeDayaliProgramlamaOdev1
 {
